@@ -1,0 +1,56 @@
+* {
+  color: #390096;
+}
+body {
+  background: rgb(124, 140, 242);
+  background: radial-gradient(
+    circle,
+    rgba(124, 140, 242, 1) 0%,
+    rgba(127, 146, 243, 1) 22%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+.button-header {
+  cursor: pointer;
+}
+.text-color {
+  color: #390096;
+}
+.btn-color {
+  background-color: #390096;
+  color: #fff;
+  width: 255px;
+}
+.h-670 {
+  height: 670px;
+}
+/* .contact-networks img {
+  margin-right: 16px;
+} */
+.section-1 {
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+.bg-purple {
+  background-color: #390096;
+}
+.btn-outline-color,
+.btn-small-color {
+  width: 168px;
+  height: 49px;
+  color: #fff;
+}
+.btn-outline-color {
+  background-color: #46c2f3;
+  color: #390096;
+  border: 2px solid #390096;
+  /* margin-left: 16px; */
+}
+/*  */
+.comment-section {
+  margin: 80px 117px;
+  padding: 80px;
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(40px);
+  border-radius: 24px;
+}
