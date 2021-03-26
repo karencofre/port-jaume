@@ -34,6 +34,16 @@ body {
 .bg-purple {
   background-color: #390096;
 }
+.bg-color {
+  background-color: #7134ff;
+  border: 4px solid #390096;
+  height: 500px;
+  width: 500px;
+  transition: 0.3s;
+}
+.bg-color:hover {
+  transform: scale(1.2);
+}
 .btn-outline-color,
 .btn-small-color {
   width: 168px;
