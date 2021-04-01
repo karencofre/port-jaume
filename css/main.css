@@ -35,9 +35,9 @@ body {
   background-color: #390096;
 }
 .bg-color {
-  background-color: #7134ff;
-  border: 4px solid #390096;
-  border-bottom: 70px solid #390096;
+  background-color: #44c0fa;
+  border: 14px solid #390096;
+  border-bottom: 50px solid #390096;
   height: 500px;
   width: 500px;
   transition: 0.3s;
